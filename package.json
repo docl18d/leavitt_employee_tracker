@@ -1,0 +1,29 @@
+{
+  "name": "leavitt_employee_tracker",
+  "version": "1.0.0",
+  "description": "Employee CRM app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docl18d/leavitt_employee_tracker.git"
+  },
+  "keywords": [
+    "Employee",
+    "CRM",
+    "Tracker"
+  ],
+  "author": "Adrein Leavitt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/docl18d/leavitt_employee_tracker/issues"
+  },
+  "homepage": "https://github.com/docl18d/leavitt_employee_tracker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
+  }
+}
